@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://www.towo365.com/app/cl/changliao.ipa</string>
+            <string>http://www.zhdstx.com/app/dstx.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://www.towo365.com/app/cl/ico_114.png</string>
+            <string>http://www.zhdstx.com/app/ico_114.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://www.towo365.com/app/cl/ico_114.png</string>
+            <string>http://www.zhdstx.com/app/ico_114.png</string>
           </dict>
         </array>
         <key>metadata</key>
@@ -39,9 +39,9 @@
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string>畅聊</string>
+          <string>第四通讯</string>
           <key>title</key>
-          <string>畅聊</string>
+          <string>第四通讯</string>
         </dict>
       </dict>
     </array>
