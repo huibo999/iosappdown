@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://pd.huibo999.com/zgsqw/app/hsq.ipa</string>
+            <string>http://pd.huibo999.com/haoshengqian/app/hsq.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://pd.huibo999.com/zgsqw/app/ico_114.png</string>
+            <string>http://pd.huibo999.com/haoshengqian/app/ico_114.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://pd.huibo999.com/zgsqw/app/ico_114.png</string>
+            <string>http://pd.huibo999.com/haoshengqian/app/ico_114.png</string>
           </dict>
         </array>
         <key>metadata</key>
